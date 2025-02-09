@@ -1,4 +1,5 @@
 ## Getting Started
+
 - copy the `.env.example` file to `.env` and fill in the values
 
 ```bash
@@ -24,4 +25,4 @@ pnpm run dev
 ```
 
 - open [http://localhost:3000](http://localhost:3000)
-- open [http://localhost:5000](http://localhost:5000)
+- open [http://localhost:8080](http://localhost:8080)
